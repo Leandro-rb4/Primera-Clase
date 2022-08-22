@@ -1,8 +1,4 @@
-# Primera-Clase
-Primer repositorio del II - 2022.
+# Primera pagina web
 
-22 de obtubre de 2022
-
-Primer cambio
-
-Segundo cambio
+Enlace al sitio web de la UCR  
+[Sitio web de la UCR](https://www.ucr.ac.cr/)
